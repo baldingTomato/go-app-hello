@@ -1,3 +1,3 @@
 # Study of go-app package
 
-Trying out package made by [Maxence Charriere](https://github.com/maxence-charriere/go-app/commits?author=maxence-charriere)
+Trying out package made by [Maxence Charriere](https://github.com/maxence-charriere/go-app)
